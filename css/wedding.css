@@ -679,8 +679,6 @@ select {
 
     align-items: center;
 
-    box-shadow: 4px 4px 0 var(--primary-color);
-
 }
 
 .gift-qr {
